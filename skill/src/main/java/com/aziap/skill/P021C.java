@@ -39,5 +39,7 @@ public class P021C {
             .mapToObj(positionListfunc)
             .map(judgInTyfoon)
             .forEach(System.out::println);
+        
+        sc.close();
     }
 }

@@ -50,5 +50,7 @@ public class P072C {
         if(streamCount == 0) {
             System.out.println("no evolution");
         }
+
+        sc.close();
     }
 }

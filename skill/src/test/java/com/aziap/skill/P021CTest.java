@@ -2,7 +2,7 @@ package com.aziap.skill;
 
 import org.junit.jupiter.api.Test;
 
-class HogeTest {
+class P021CTest {
 
 	@Test
 	void contextLoads() {
